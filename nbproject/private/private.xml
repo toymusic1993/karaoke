@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/karaoke/src/Controller/BookingDAO.java</file>
+            <file>file:/D:/karaoke/src/Controller/RoomDAO.java</file>
+            <file>file:/D:/karaoke/src/Model/Room.java</file>
+            <file>file:/D:/karaoke/src/View/DatPhong.java</file>
             <file>file:/D:/karaoke/test/UseJunitTest.java</file>
             <file>file:/D:/karaoke/src/Controller/DashboardDAO.java</file>
-            <file>file:/D:/karaoke/src/View/ThemNhanVien.java</file>
-            <file>file:/D:/karaoke/src/View/ThongKe.java</file>
+            <file>file:/D:/karaoke/src/View/ThemPhong.java</file>
             <file>file:/D:/karaoke/src/Model/Dashboard.java</file>
         </group>
     </open-files>
